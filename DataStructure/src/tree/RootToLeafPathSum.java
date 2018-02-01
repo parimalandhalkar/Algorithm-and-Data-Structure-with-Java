@@ -4,6 +4,8 @@ public class RootToLeafPathSum {
 
 	public static boolean rootToLeafSum(Node root,int sum)
 	{
+		
+		
 		if(root.left ==null && root.right==null && sum == root.data)
 		{
 			System.out.println(root.data+" "+"Sum :"+sum);
@@ -13,13 +15,16 @@ public class RootToLeafPathSum {
 		if(root.left !=null && sum !=0)
 		{
 			System.out.println(root.left.data+" "+(sum-root.data));
-			rootToLeafSum(root.left, sum-root.data);
+			if( rootToLeafSum(root.left, sum-root.data))
+			{
+				return true;
+			}
 		
 		}
 		if(root.right != null && sum !=0)
 		{
 			System.out.println(root.left.data+" "+(sum-root.data));
-			rootToLeafSum(root.right, sum-root.data);
+			return rootToLeafSum(root.right, sum-root.data);
 			//System.out.println(root.left.data+" "+sum);
 		}
 		
