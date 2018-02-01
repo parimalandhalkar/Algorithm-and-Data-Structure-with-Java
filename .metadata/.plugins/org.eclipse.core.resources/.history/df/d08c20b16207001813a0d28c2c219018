@@ -54,8 +54,8 @@ public class RootToLeafPathSum {
 		root.left.right = new Node(5);
 		root.right.left = new Node(2);
 	
-		int sum =234;
-	  System.out.println("Sum Exist :"+rootToLeafSum1(root, sum));
+		int sum =23;
+	  System.out.println("Sum Exist :"+rootToLeafSum(root, sum));
 	}
 
 }
