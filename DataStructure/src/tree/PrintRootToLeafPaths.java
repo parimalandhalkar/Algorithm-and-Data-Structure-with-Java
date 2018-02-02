@@ -5,56 +5,50 @@ import java.util.ArrayList;
 public class PrintRootToLeafPaths {
 	
 	
-	public static void printArray(ArrayList<Integer> list)
+	public static void printArray(int [] list,int len)
 	{
-		for(int i=0;i<list.size();i++)
-			System.out.print(list.get(i)+" ");
+		for(int i=0;i<len;i++)
+			System.out.print(list[i]+" ");
 	
 		System.out.println();
 	}
 	
-	public static void printPath(ArrayList<Integer> list,Node root)
+	public static void printPath(int path[],Node root,int pathIndex)
 	{
-		if(root ==null)
-			return;
-		
-		if(root.left == null && root.right ==null)
+	
+		if(root  !=null)
 		{
-			list.add(root.data);
-			printArray(list);
-		}
-		if(root.left !=null)
-		{
-			list.add(root.data);
-			printPath(list, root.left);
-		}
+			path[pathIndex++] = root.data;
+			if(root.left ==null && root.right == null)
+			{
+				printArray(path,pathIndex);
+			}
 			
-		if(root.right !=null)
-		{
-			list.add(root.data);
-			printPath(list, root.right);
-		}
+			printPath(path, root.left, pathIndex);
+			printPath(path, root.right, pathIndex);
 			
-		
-		
+		}
 		
 		
 	}
 	
 	public static void main(String args[])
 	{
-		Node root = new Node(10);
-		root.left = new Node(8);
-		root.right = new Node(2);
-		root.left.left = new Node(3);
+		Node root = new Node(1);
+		root.left = new Node(2);
+		root.right = new Node(3);
+		root.left.left = new Node(4);
 		root.left.right = new Node(5);
-		root.left.left.left = new Node(15);
+		//root.left.left.left = new Node(15);
 		root.right.left = new Node(6);
-		root.right.right = new Node(4);
+		root.right.left.left = new Node(8);
+		root.right.right = new Node(7);
 		
 		ArrayList<Integer> list = new ArrayList<Integer>();
+		int pathIndex=0;
+		int path[] = new int[100];
 		
-		printPath(list, root);
+		printPath(path, root,pathIndex);
 		
 		System.out.println();
 	}

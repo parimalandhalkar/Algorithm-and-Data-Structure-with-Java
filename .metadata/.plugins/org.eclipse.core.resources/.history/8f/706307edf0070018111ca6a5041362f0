@@ -1,0 +1,13 @@
+package tree;
+
+class Node
+{
+	int data;
+	Node left;
+	Node right;
+	Node next;
+}
+
+public class PopulateInorderSuccessor {
+
+}

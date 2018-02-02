@@ -14,12 +14,13 @@ public class ChildSumProperty {
 		if(root.right !=null)
 			rdata = root.right.data;
 		
-		if((root.data == ldata + rdata) && sumProperty(root.left) !=0&& sumProperty(root.right)!=0)
+		if((root.data == ldata + rdata) && sumProperty(root.left) !=0 && sumProperty(root.right)!=0)
 		return 1;
 		else
 			return 0;
 		
 	}
+	
 	
 	public static void main(String args[])
 	{

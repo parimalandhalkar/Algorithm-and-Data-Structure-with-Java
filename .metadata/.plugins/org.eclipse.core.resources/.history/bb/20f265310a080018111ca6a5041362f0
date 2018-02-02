@@ -1,0 +1,10 @@
+package tree;
+
+public class SumTree {
+
+	
+	public static void main(String args[])
+	{
+		
+	}
+}

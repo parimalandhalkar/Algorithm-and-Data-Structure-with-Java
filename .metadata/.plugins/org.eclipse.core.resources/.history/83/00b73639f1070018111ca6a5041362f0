@@ -1,0 +1,23 @@
+package tree;
+
+class Node1
+{
+	int data;
+	Node left;
+	Node right;
+	Node next;
+	
+	Node1(int d)
+	{
+		data = d;
+		left = right = next = null;
+	}
+}
+
+public class PopulateInorderSuccessor {
+
+	public static void main(String args[])
+	{
+		
+	}
+}

@@ -16,6 +16,8 @@ public class CountLeaf {
 		
 		
 	}
+
+	// bfs traversal can also be used
 	
 	public static void main(String args[])
 	{
