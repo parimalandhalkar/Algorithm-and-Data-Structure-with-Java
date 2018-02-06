@@ -9,9 +9,9 @@
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="110" y="22"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="138" y="22"/>
-<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="364" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -34,72 +34,17 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DiameterOfTree.java" partName="DiameterOfTree.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/DiameterOfTree.java" title="DiameterOfTree.java" tooltip="DataStructure/src/tree/DiameterOfTree.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/DiameterOfTree.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="464" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Print_K_DistanceNode.java" partName="Print_K_DistanceNode.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/Print_K_DistanceNode.java" title="Print_K_DistanceNode.java" tooltip="DataStructure/src/tree/Print_K_DistanceNode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/Print_K_DistanceNode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="392" selectionOffset="612" selectionTopPixel="430"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HeightBalanced.java" partName="HeightBalanced.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/HeightBalanced.java" title="HeightBalanced.java" tooltip="DataStructure/src/tree/HeightBalanced.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/HeightBalanced.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" partName="Node.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/Node.java" title="Node.java" tooltip="DataStructure/src/tree/Node.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/Node.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintRootToLeafPaths.java" partName="PrintRootToLeafPaths.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/PrintRootToLeafPaths.java" title="PrintRootToLeafPaths.java" tooltip="DataStructure/src/tree/PrintRootToLeafPaths.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/PrintRootToLeafPaths.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="506" selectionTopPixel="193"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RootToLeafPathSum.java" partName="RootToLeafPathSum.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/RootToLeafPathSum.java" title="RootToLeafPathSum.java" tooltip="DataStructure/src/tree/RootToLeafPathSum.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/RootToLeafPathSum.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="183" selectionOffset="434" selectionTopPixel="226"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateInorderSuccessor.java" partName="PopulateInorderSuccessor.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/PopulateInorderSuccessor.java" title="PopulateInorderSuccessor.java" tooltip="DataStructure/src/tree/PopulateInorderSuccessor.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/PopulateInorderSuccessor.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConnectNodesAtSameLevel.java" partName="ConnectNodesAtSameLevel.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/ConnectNodesAtSameLevel.java" title="ConnectNodesAtSameLevel.java" tooltip="DataStructure/src/tree/ConnectNodesAtSameLevel.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/ConnectNodesAtSameLevel.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="580" selectionTopPixel="226"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node1.java" partName="Node1.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/Node1.java" title="Node1.java" tooltip="DataStructure/src/tree/Node1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/Node1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="39" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckSubTree.java" partName="CheckSubTree.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/CheckSubTree.java" title="CheckSubTree.java" tooltip="DataStructure/src/tree/CheckSubTree.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/CheckSubTree.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="49" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChildSumProperty.java" partName="ChildSumProperty.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/ChildSumProperty.java" title="ChildSumProperty.java" tooltip="DataStructure/src/tree/ChildSumProperty.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/ChildSumProperty.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SumTree.java" partName="SumTree.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/SumTree.java" title="SumTree.java" tooltip="DataStructure/src/tree/SumTree.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/SumTree.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="729" selectionTopPixel="311"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintAncestors.java" partName="PrintAncestors.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/PrintAncestors.java" title="PrintAncestors.java" tooltip="DataStructure/src/tree/PrintAncestors.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/PrintAncestors.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="468" selectionOffset="851" selectionTopPixel="763"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetLevelOfNode.java" partName="GetLevelOfNode.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/GetLevelOfNode.java" title="GetLevelOfNode.java" tooltip="DataStructure/src/tree/GetLevelOfNode.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/GetLevelOfNode.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="462" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckCompleteBinaryTree.java" partName="CheckCompleteBinaryTree.java" path="F:/Algorithm-and-Data-Structure-with-Java/DataStructure/src/tree/CheckCompleteBinaryTree.java" title="CheckCompleteBinaryTree.java" tooltip="DataStructure/src/tree/CheckCompleteBinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructure/src/tree/CheckCompleteBinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="552" selectionTopPixel="226"/>
 </editor>
 </editors>
 <views>
@@ -111,8 +56,7 @@
 </view>
 <view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
-<expanded>
-<category IMemento.internal.id="Java Exception Breakpoints (2 items)"/>
+<expanded>&#x0A;<category IMemento.internal.id="Java Exception Breakpoints (2 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.allSeverityField="0" org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
@@ -218,7 +162,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.69966996" ratioLeft="424" ratioRight="182" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottomRight" ratio="0.6633166" ratioLeft="396" ratioRight="201" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
@@ -258,162 +202,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/RootToLeafPathSum.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/PopulateInorderSuccessor.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/ChildSumProperty.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/SumTree.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/PrintAncestors.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/GetLevelOfNode.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/Print_K_DistanceNode.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/PrintAncestors.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/CheckCompleteBinaryTree.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructure/src/tree/PrintAncestors.java"/>
 </editors>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="265" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="303" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="351" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="690" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="309" y="0"/>
-</item>
-<item historyLabel="RootToLeafPathSum.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="PopulateInorderSuccessor.java" index="1">
-<position info="not_deleted" x="17" y="0"/>
-</item>
-<item historyLabel="ChildSumProperty.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="729" y="0"/>
-</item>
-<item historyLabel="ChildSumProperty.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SumTree.java" index="3">
-<position info="not_deleted" x="729" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="887" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1204" y="0"/>
-</item>
-<item historyLabel="ChildSumProperty.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="RootToLeafPathSum.java" index="0">
-<position info="not_deleted" x="434" y="183"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1204" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="566" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="547" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="825" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="690" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="740" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="795" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="408" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="417" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="447" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1225" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1240" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1267" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1270" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1281" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1284" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="120" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="142" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="225" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="263" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="257" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="327" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="1310" y="0"/>
-</item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="333" y="0"/>
-</item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position info="not_deleted" x="768" y="0"/>
 </item>
-<item historyLabel="PrintAncestors.java" index="4">
-<position info="not_deleted" x="851" y="468"/>
-</item>
-<item historyLabel="GetLevelOfNode.java" index="5">
-<position info="not_deleted" x="768" y="0"/>
-</item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position info="not_deleted" x="110" y="0"/>
 </item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position info="not_deleted" x="162" y="0"/>
 </item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position/>
 </item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position/>
 </item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position/>
 </item>
-<item historyLabel="GetLevelOfNode.java" index="5">
+<item historyLabel="GetLevelOfNode.java" index="0">
 <position info="not_deleted" x="220" y="0"/>
 </item>
-<item active="true" historyLabel="GetLevelOfNode.java" index="5">
-<position info="not_deleted" x="223" y="0"/>
+<item historyLabel="GetLevelOfNode.java" index="0">
+<position info="not_deleted" x="325" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PrintAncestors.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PrintAncestors.java" index="2">
+<position info="not_deleted" x="851" y="468"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="141" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="201" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="202" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="238" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="993" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="996" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="971" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="72" y="0"/>
+</item>
+<item historyLabel="Print_K_DistanceNode.java" index="1">
+<position info="not_deleted" x="612" y="392"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="1004" y="0"/>
+</item>
+<item historyLabel="PrintAncestors.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="1004" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="204" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="280" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="282" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="664" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="245" y="5"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="265" y="10"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="298" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="418" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="487" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="509" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="586" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="657" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="967" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="995" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="905" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="363" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="465" y="23"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="552" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="659" y="0"/>
+</item>
+<item historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="947" y="22"/>
+</item>
+<item active="true" historyLabel="CheckCompleteBinaryTree.java" index="3">
+<position info="not_deleted" x="637" y="22"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -421,13 +364,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="topLeft"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="bottomRight"/>
-<trimItem IMemento.internal.id="topRight"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -439,11 +375,17 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetLevelOfNode.java" tooltip="DataStructure/src/tree/GetLevelOfNode.java">
-<persistable path="/DataStructure/src/tree/GetLevelOfNode.java"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintAncestors.java" tooltip="DataStructure/src/tree/PrintAncestors.java">
 <persistable path="/DataStructure/src/tree/PrintAncestors.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckCompleteBinaryTree.java" tooltip="DataStructure/src/tree/CheckCompleteBinaryTree.java">
+<persistable path="/DataStructure/src/tree/CheckCompleteBinaryTree.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Print_K_DistanceNode.java" tooltip="DataStructure/src/tree/Print_K_DistanceNode.java">
+<persistable path="/DataStructure/src/tree/Print_K_DistanceNode.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetLevelOfNode.java" tooltip="DataStructure/src/tree/GetLevelOfNode.java">
+<persistable path="/DataStructure/src/tree/GetLevelOfNode.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SumTree.java" tooltip="DataStructure/src/tree/SumTree.java">
 <persistable path="/DataStructure/src/tree/SumTree.java"/>
@@ -477,12 +419,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HeightBalanced.java" tooltip="DataStructure/src/tree/HeightBalanced.java">
 <persistable path="/DataStructure/src/tree/HeightBalanced.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DiameterOfTree.java" tooltip="DataStructure/src/tree/DiameterOfTree.java">
-<persistable path="/DataStructure/src/tree/DiameterOfTree.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CountLeaf.java" tooltip="DataStructure/src/tree/CountLeaf.java">
-<persistable path="/DataStructure/src/tree/CountLeaf.java"/>
 </file>
 </mruList>
 </workbench>

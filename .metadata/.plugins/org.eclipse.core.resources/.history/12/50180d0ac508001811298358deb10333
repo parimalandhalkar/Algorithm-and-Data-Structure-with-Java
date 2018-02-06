@@ -1,0 +1,47 @@
+package tree;
+
+public class Print_K_DistanceNode {
+
+	
+	public static void printKdistance(Node root,int d,int level)
+	{
+		if(root!=null)
+		{
+			if(d == level)
+				System.out.print(root.data+" ");
+			
+			printKdistance(root.left, d, level+1);
+			printKdistance(root.right, d, level+1);
+		}
+	}
+	//--------------------------------------------------------
+	
+	public static void printKdistance1(Node root,int level)
+	{
+		if(root!=null)
+		{
+			if(level==0)
+				System.out.print(root.data+" ");
+			
+			printKdistance1(root.left, level-1);
+			printKdistance1(root.right, level-1);
+		}
+	}
+	
+	public static void main(String args[])
+	{
+		Node root = new Node(10);
+		root.left = new Node(8);
+		root.right = new Node(2);
+		root.left.left = new Node(3);
+		root.left.left.left = new Node(9);
+		root.left.right = new Node(5);
+		root.left.right.right = new Node(7);
+		root.left.right.right.right = new Node(6);
+		root.right.right = new Node(4);
+	
+
+		printKdistance1(root, 3);
+
+	}
+}

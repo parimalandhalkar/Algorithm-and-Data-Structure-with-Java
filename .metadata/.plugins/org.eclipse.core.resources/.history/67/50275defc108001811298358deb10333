@@ -1,25 +1,19 @@
 package tree;
 
-public class GetLevelOfNode {
+public class Print_K_DistanceNode {
+
 	
-	
-	public static void getLevel(Node root,int key,int level)
+	public static void printKdistance(Node root,int d,int level)
 	{
 		if(root!=null)
 		{
-			if(root.data == key)
-			{
-				System.out.print(level);
-				System.exit(0);
-			}
-				
+			if(d == level)
+				System.out.print(root.data+" ");
 			
-			getLevel(root.left, key, level + 1);
-			getLevel(root.right, key, level + 1);
+			printKdistance(root.left, d, level+1);
+			printKdistance(root.right, d, level+1);
 		}
-		//return 0;
 	}
-	
 	
 	public static void main(String args[])
 	{
@@ -31,10 +25,10 @@ public class GetLevelOfNode {
 		root.left.right = new Node(5);
 		root.left.right.right = new Node(7);
 		root.left.right.right.right = new Node(6);
-		root.right.left = new Node(4);
+		root.right.right = new Node(4);
 	
-		getLevel(root,9 , 0);
-		//System.out.print();
-	}
 
+		printKdistance(root, 4, 0);
+
+	}
 }

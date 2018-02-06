@@ -1,0 +1,48 @@
+package tree;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class CheckCompleteBinaryTree {
+
+	public static boolean checkcomplete(Node root)
+	{
+		Queue<Node> q = new LinkedList<Node>();
+		q.add(root);
+		boolean flag1= true, flag2 = false;
+		while(!q.isEmpty())
+		{
+			Node temp = q.poll();
+			if(temp.left ==null && temp.right !=null)
+			{
+				flag1 = false;
+				break;
+			}
+			if(temp.left !=null)
+				q.add(temp.left);
+			else
+				flag2 = true;
+			
+			if(temp.right !=null && flag2 == true)
+			{
+				flag1 = false;
+				break;
+			}else
+				q.add(temp.right);
+		}
+	}
+	
+	public static void main(String args[])
+	{
+		Node root = new Node(10);
+		root.left = new Node(8);
+		root.right = new Node(2);
+		root.left.left = new Node(3);
+		root.left.left.left = new Node(9);
+		root.left.right = new Node(5);
+		root.left.right.right = new Node(7);
+		root.left.right.right.right = new Node(6);
+		root.right.right = new Node(4);
+	
+	}
+}

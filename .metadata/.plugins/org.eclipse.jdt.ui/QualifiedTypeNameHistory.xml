@@ -4,5 +4,7 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="tree.DiameterOfTree"/>
 <fullyQualifiedTypeName name="tree.SumTree"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
